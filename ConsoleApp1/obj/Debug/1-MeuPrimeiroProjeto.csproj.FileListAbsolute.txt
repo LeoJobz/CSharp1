@@ -1,0 +1,4 @@
+C:\Workspace\c#\aprendendoCSharp\ConsoleApp1\obj\Debug\1-MeuPrimeiroProjeto.csprojAssemblyReference.cache
+C:\Workspace\c#\aprendendoCSharp\ConsoleApp1\obj\Debug\1-MeuPrimeiroProjeto.csproj.CoreCompileInputs.cache
+C:\Workspace\c#\aprendendoCSharp\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Workspace\c#\aprendendoCSharp\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

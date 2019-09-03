@@ -1,0 +1,7 @@
+C:\Workspace\c#\aprendendoCSharp\7Cond\bin\Debug\7Cond.exe.config
+C:\Workspace\c#\aprendendoCSharp\7Cond\bin\Debug\7Cond.exe
+C:\Workspace\c#\aprendendoCSharp\7Cond\bin\Debug\7Cond.pdb
+C:\Workspace\c#\aprendendoCSharp\7Cond\obj\Debug\7Condicionais.csproj.CoreCompileInputs.cache
+C:\Workspace\c#\aprendendoCSharp\7Cond\obj\Debug\7Cond.exe
+C:\Workspace\c#\aprendendoCSharp\7Cond\obj\Debug\7Cond.pdb
+C:\Workspace\c#\aprendendoCSharp\7Cond\obj\Debug\7Condicionais.csprojAssemblyReference.cache

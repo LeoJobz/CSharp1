@@ -1,0 +1,6 @@
+C:\Workspace\c#\aprendendoCSharp\8Condicionais\bin\Debug\8Condicionais.exe.config
+C:\Workspace\c#\aprendendoCSharp\8Condicionais\bin\Debug\8Condicionais.exe
+C:\Workspace\c#\aprendendoCSharp\8Condicionais\bin\Debug\8Condicionais.pdb
+C:\Workspace\c#\aprendendoCSharp\8Condicionais\obj\Debug\8Condicionais.csproj.CoreCompileInputs.cache
+C:\Workspace\c#\aprendendoCSharp\8Condicionais\obj\Debug\8Condicionais.exe
+C:\Workspace\c#\aprendendoCSharp\8Condicionais\obj\Debug\8Condicionais.pdb

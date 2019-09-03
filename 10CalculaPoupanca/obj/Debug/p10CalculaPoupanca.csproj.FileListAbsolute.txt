@@ -1,0 +1,6 @@
+C:\Workspace\c#\aprendendoCSharp\10CalculaPoupanca\bin\Debug\10CalculaPoupanca.exe.config
+C:\Workspace\c#\aprendendoCSharp\10CalculaPoupanca\bin\Debug\10CalculaPoupanca.exe
+C:\Workspace\c#\aprendendoCSharp\10CalculaPoupanca\bin\Debug\10CalculaPoupanca.pdb
+C:\Workspace\c#\aprendendoCSharp\10CalculaPoupanca\obj\Debug\p10CalculaPoupanca.csproj.CoreCompileInputs.cache
+C:\Workspace\c#\aprendendoCSharp\10CalculaPoupanca\obj\Debug\10CalculaPoupanca.exe
+C:\Workspace\c#\aprendendoCSharp\10CalculaPoupanca\obj\Debug\10CalculaPoupanca.pdb

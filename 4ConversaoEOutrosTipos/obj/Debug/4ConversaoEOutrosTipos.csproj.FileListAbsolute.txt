@@ -1,0 +1,7 @@
+C:\Workspace\c#\aprendendoCSharp\4ConversaoEOutrosTipos\bin\Debug\4ConversaoEOutrosTipos.exe.config
+C:\Workspace\c#\aprendendoCSharp\4ConversaoEOutrosTipos\bin\Debug\4ConversaoEOutrosTipos.exe
+C:\Workspace\c#\aprendendoCSharp\4ConversaoEOutrosTipos\bin\Debug\4ConversaoEOutrosTipos.pdb
+C:\Workspace\c#\aprendendoCSharp\4ConversaoEOutrosTipos\obj\Debug\4ConversaoEOutrosTipos.csprojAssemblyReference.cache
+C:\Workspace\c#\aprendendoCSharp\4ConversaoEOutrosTipos\obj\Debug\4ConversaoEOutrosTipos.csproj.CoreCompileInputs.cache
+C:\Workspace\c#\aprendendoCSharp\4ConversaoEOutrosTipos\obj\Debug\4ConversaoEOutrosTipos.exe
+C:\Workspace\c#\aprendendoCSharp\4ConversaoEOutrosTipos\obj\Debug\4ConversaoEOutrosTipos.pdb

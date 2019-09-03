@@ -1,0 +1,7 @@
+C:\Workspace\c#\aprendendoCSharp\p14DesafioFatorial\bin\Debug\p14DesafioFatorial.exe.config
+C:\Workspace\c#\aprendendoCSharp\p14DesafioFatorial\bin\Debug\p14DesafioFatorial.exe
+C:\Workspace\c#\aprendendoCSharp\p14DesafioFatorial\bin\Debug\p14DesafioFatorial.pdb
+C:\Workspace\c#\aprendendoCSharp\p14DesafioFatorial\obj\Debug\p14DesafioFatorial.csprojAssemblyReference.cache
+C:\Workspace\c#\aprendendoCSharp\p14DesafioFatorial\obj\Debug\p14DesafioFatorial.csproj.CoreCompileInputs.cache
+C:\Workspace\c#\aprendendoCSharp\p14DesafioFatorial\obj\Debug\p14DesafioFatorial.exe
+C:\Workspace\c#\aprendendoCSharp\p14DesafioFatorial\obj\Debug\p14DesafioFatorial.pdb

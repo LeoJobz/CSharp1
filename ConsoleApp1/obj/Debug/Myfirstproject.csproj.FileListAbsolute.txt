@@ -1,0 +1,7 @@
+C:\Workspace\c#\meuprimeiroprojeto\firstproject\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Workspace\c#\meuprimeiroprojeto\firstproject\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Workspace\c#\meuprimeiroprojeto\firstproject\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Workspace\c#\meuprimeiroprojeto\firstproject\ConsoleApp1\obj\Debug\Myfirstproject.csprojAssemblyReference.cache
+C:\Workspace\c#\meuprimeiroprojeto\firstproject\ConsoleApp1\obj\Debug\Myfirstproject.csproj.CoreCompileInputs.cache
+C:\Workspace\c#\meuprimeiroprojeto\firstproject\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Workspace\c#\meuprimeiroprojeto\firstproject\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
